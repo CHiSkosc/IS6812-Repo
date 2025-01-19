@@ -1,0 +1,20 @@
+---
+title: "Connecting file"
+author: "Tina Young"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+###Using it as tool to show connection of RStudio and GitHub
+```{r}
+x <- 10
+y <- 20
+z <- x + y
+
+print(z)
+```
