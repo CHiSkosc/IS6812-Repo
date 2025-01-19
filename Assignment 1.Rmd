@@ -18,3 +18,4 @@ z <- x + y
 
 print(z)
 ```
+##This is the file sent from RStudio to GitHub. Had to do other things within RStudio within the Terminal space of RStudio for this to eventually work. 
