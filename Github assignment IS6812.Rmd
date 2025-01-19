@@ -16,3 +16,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 #additional comment
 ```
+This comment has been added in GitHub
